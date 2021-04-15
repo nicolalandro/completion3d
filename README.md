@@ -7,16 +7,8 @@ This is a fork in witch I try to configure and use AtlasNet. The original readme
 # you need python and cuda (so an Nvidia GPU)
 python3.6 -m venv comp3d_venv
 source comp3d_venv/bin/activate
-pip install -r requrements/data-requirements.txt
-pip install -r requrements/pytorch-requirements.txt
-
-# compile emd
-cd pytorch/utils/emd/src
-chmod +x make.sh
-./make.sh
-cd ../
-python build.py
-cd ../../../
+pip install -r requirements/data-requirements.txt
+pip install -r requirements/pytorch-requirements.txt
 
 # compile chamfer
 cd pytorch/utils/chamfer
