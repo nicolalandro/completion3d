@@ -1,4 +1,5 @@
-![![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12pRi8IwOvYCW0doU3XQlN1DtIWLqc_vX?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12pRi8IwOvYCW0doU3XQlN1DtIWLqc_vX?usp=sharing)
+
 # AtlasNet
 This is a fork in witch I try to configure and use AtlasNet. The original readme is [there](OLD_README.md).
 
