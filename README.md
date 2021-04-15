@@ -32,7 +32,7 @@ pip install matplotlib
 
 ## How to use a trained model
 
-* run on colab with [this link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12pRi8IwOvYCW0doU3XQlN1DtIWLqc_vX?usp=sharing)
+* run on colab with [this link](https://colab.research.google.com/drive/12pRi8IwOvYCW0doU3XQlN1DtIWLqc_vX?usp=sharing)
 * or locally
   * you can find data sample (.h5) and trained (.pth.tar) model at [this release](https://github.com/nicolalandro/completion3d/releases/tag/0.1) 
   * run
