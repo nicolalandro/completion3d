@@ -37,6 +37,9 @@ pip install matplotlib
 ```
 
 ## How to use a trained model
+
+* you can find data sample (.h5) and trained (.pth.tar) model at [this release](https://github.com/nicolalandro/completion3d/releases/tag/0.1) 
+* run
 ```
 cd pytorch
 jupyter notebook
