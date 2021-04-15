@@ -24,7 +24,7 @@ class ShapenetDataProcess(DataProcess):
         """
         self.args=args
         self.split = split
-        args.DATA_PATH = 'data/%s' % (args.dataset)
+        args.DATA_PATH = '/media/mint/Barracuda/Datasets/Completion3D/%s' % (args.dataset)
         classmap = load_csv(args.DATA_PATH + '/synsetoffset2category.txt')
         args.classmap = {}
         for i in range(classmap.shape[0]):

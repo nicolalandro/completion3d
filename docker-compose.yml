@@ -1,0 +1,12 @@
+version: '2.3'
+
+services:
+    gpu:
+        build:
+            context: . 
+            dockerfile: ./GPU-Dockerfile
+        command: 'nvidia-smi'
+        volumes:
+        - /media/mint/Barracuda/Datasets/Completion3D/shapenet:/shapenet
+        runtime: nvidia
+
