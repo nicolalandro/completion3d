@@ -46,7 +46,7 @@ firefox http://localhost:8888/notebooks/AtlasNet.ipynb
 ## Train
 
 * download dataset from [this link](https://completion3d.stanford.edu/)
-*run
+* run
 
 ```
 cd pytorch
